@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.abasalt_cpu.twa",
+        "package_name": "io.github.abasalt-cpu.twa",
         "sha256_cert_fingerprints": ["43:8C:5E:E0:A2:88:F0:7A:39:F3:26:07:9C:9D:82:CE:A4:E1:1E:CF:5C:51:85:C7:42:60:03:16:7B:76:7C:75"]
       }
     }]
